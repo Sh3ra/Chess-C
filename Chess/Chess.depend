@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545742596 source:y:\c programs\projcets\chess\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
